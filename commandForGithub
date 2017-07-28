@@ -1,0 +1,6 @@
+1.signup github
+2.create repository
+3.git clone https://github.com/15dco74/jksb.git
+4.git init
+5.git config user.email "15dco74@gmail.com"
+6.git status
